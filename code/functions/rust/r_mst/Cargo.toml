@@ -1,0 +1,9 @@
+[package]
+name = "r_mst"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bench = { path = "../bench" }
+petgraph = "0.8.1"
+rand = "0.9.1"

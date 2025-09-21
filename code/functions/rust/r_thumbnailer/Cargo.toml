@@ -1,0 +1,8 @@
+[package]
+name = "r_thumbnailer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bench = { path = "../bench" }
+image = { version = "0.25.6", default-features = false, features = ["jpeg", "bmp", "png", "gif"]}

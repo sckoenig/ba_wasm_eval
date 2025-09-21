@@ -1,0 +1,14 @@
+diff --git a/node_modules/js-graph-algorithms/src/jsgraphs.js b/node_modules/js-graph-algorithms/src/jsgraphs.js
+index 5409240..3c8f82b 100644
+--- a/node_modules/js-graph-algorithms/src/jsgraphs.js
++++ b/node_modules/js-graph-algorithms/src/jsgraphs.js
+@@ -1202,7 +1202,4 @@ var jsgraphs = jsgraphs || {};
+     jss.FordFulkerson = FordFulkerson;
+ })(jsgraphs);
+
+-var module = module || {};
+-if(module) {
+-	module.exports = jsgraphs;
+-}
+\ No newline at end of file
++module.exports = jsgraphs;

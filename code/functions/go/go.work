@@ -1,0 +1,13 @@
+go 1.24.3
+
+use (
+	./bench
+	./g_aes
+	./g_float
+	./g_matmul
+	./g_fib
+	./g_mst
+	./g_prime
+	./g_template
+	./g_thumbnailer
+)

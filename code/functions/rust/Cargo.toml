@@ -1,0 +1,13 @@
+[workspace]
+members = [
+    "bench",
+    "r_matmul",
+    "r_prime",
+    "r_thumbnailer",
+    "r_aes",
+    "r_mst",
+    "r_template",
+    "r_float",
+    "r_fib"
+]
+resolver = "3"

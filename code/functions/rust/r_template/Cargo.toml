@@ -1,0 +1,9 @@
+[package]
+name = "r_template"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bench = { path = "../bench" }
+askama = "0.14.0"
+random-number = "0.1.9"

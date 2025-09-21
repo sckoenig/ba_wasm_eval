@@ -1,0 +1,264 @@
+Start(Unix Epoch) ComputationStart(Unix Epoch) ComputationEnd(Unix Epoch)
+1748937772395257 Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937779736118 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937786858816 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937794067197 Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937801261726 Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937808472681 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937815576503 Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937822862333 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937829946141 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937837111839 Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937844300046 Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937851708440 Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937858920738 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937866118730 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937873327990 Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937880517702 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937887770975 Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937894979335 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937902250776 Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937909556241 Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937916912019 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937924091670 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937931293348 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937938572664 "out of memory"
+Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed
+1748937946067122 Redirecting call to abort() to mozalloc_abort
+
+Error: error while executing at wasm backtrace:
+    0:  0x274e7 - <unknown>!
+    1:  0x274f3 - <unknown>!
+    2: 0x41ac25 - <unknown>!
+    3: 0xc0296a - <unknown>!wasi:cli/run@0.2.0#run
+
+Caused by:
+    wasm trap: wasm `unreachable` instruction executed

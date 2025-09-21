@@ -1,0 +1,9 @@
+[package]
+name = "r_aes"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bench = { path = "../bench" }
+aes-gcm = "0.10.3"
+rand = "0.9.1"
